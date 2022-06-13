@@ -6,7 +6,9 @@
     <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<img src='./prevejaSeuFuturo.gif'>
+<div align='center'>
+    <img src='./PrevejaSeuFuturo.gif'>
+</div>
 
 <a href="" target="_blank"><h1 align='center'>Clique aqui para Testar o app</h1></a>
 

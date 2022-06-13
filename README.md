@@ -1,4 +1,4 @@
-# Jogo da memória
+# Preveja seu futuro
 
 <h4 align='center'>Projeto super simples feito durante o evento maratona explorer da  <a href="https://www.rocketseat.com.br/" target="_blank" >Rocketseat</a></h4>
 
@@ -19,3 +19,5 @@ As seguintes tecnologias foram usadas:
 - Javascript
 - HTML5
 - CSS3
+
+Feito com <3 por [Willian Duarte](https://www.linkedin.com/in/willian-duarte-de-souza-4321a6230/)
